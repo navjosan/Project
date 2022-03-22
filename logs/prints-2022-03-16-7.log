@@ -1,0 +1,9 @@
+-Djava.net.preferIPv4Stack: false
+-Djava.net.preferIPv6Addresses: false
+Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+-Dio.netty.machineId: 10:6f:d9:ff:fe:4b:79:1d (auto-detected)
+-Dio.netty.buffer.checkAccessible: true
+-Dio.netty.buffer.checkBounds: true
+Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@52ce994c
+-Dio.netty.recycler.maxCapacityPerThread: 4096

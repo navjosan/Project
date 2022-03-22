@@ -1,0 +1,8 @@
+-Dio.netty.eventLoopThreads: 16
+-Dio.netty.noKeySetOptimization: false
+-Dio.netty.selectorAutoRebuildThreshold: 512
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3e177000
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5ea7eaf8
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@10d7dc6d
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@17d59c02
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@2095319

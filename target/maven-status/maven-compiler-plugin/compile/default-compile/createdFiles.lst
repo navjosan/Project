@@ -1,0 +1,4 @@
+pageObjects\LoginPage.class
+pageObjects\LoginToQaAcademy.class
+E2eDevelopment\App.class
+resources\Base.class

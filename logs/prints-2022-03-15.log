@@ -1,0 +1,7 @@
+14:14:14.012 [main] INFO  resources.Base - Driver is getting initialized
+14:14:15.880 [main] INFO  resources.Base - Successfully moving to the LoginToQaAcademt
+14:14:16.497 [main] INFO  resources.Base - Running
+14:14:16.505 [main] INFO  resources.Base - Successfully passing the parameters 
+14:14:55.769 [main] INFO  resources.Base - Driver is getting initialized
+14:14:58.076 [main] INFO  resources.Base - Successfully moving to the LoginToQaAcademt
+14:14:58.874 [main] INFO  resources.Base - Running

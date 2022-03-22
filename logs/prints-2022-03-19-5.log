@@ -1,0 +1,9 @@
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@302edb74
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7efd28bd
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@672b72ba
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7718a40f
+-Dio.netty.allocator.numHeapArenas: 16
+-Dio.netty.allocator.numDirectArenas: 16
+-Dio.netty.allocator.pageSize: 8192
+-Dio.netty.allocator.maxOrder: 11
+-Dio.netty.allocator.chunkSize: 16777216

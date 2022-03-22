@@ -1,0 +1,7 @@
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@30d25c03
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7a1f8def
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@116a2108
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@5e8c34a0
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7c1c5936
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@7aead3af
+instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3ac8cf9b

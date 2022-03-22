@@ -1,0 +1,139 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-03-19T16:20:45.507Z",
+        "line": 11,
+        "name": "Positive test validating login",
+        "description": "",
+        "id": "login-into-qaacademy;positive-test-validating-login;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7733855400,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Initialize the browser with chrome",
+            "match": {
+              "location": "StepDefinition.stepDefinition.initialize_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 19206717500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Land on the \"http://www.qaclickacademy.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.qaclickacademy.com/",
+                  "offset": 13
+                }
+              ],
+              "location": "StepDefinition.stepDefinition.land_on_the_something(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2159287700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on the login link nav@gmail.com and nav123",
+            "match": {
+              "arguments": [
+                {
+                  "val": "nav@gmail.com",
+                  "offset": 24
+                },
+                {
+                  "val": "nav123",
+                  "offset": 42
+                }
+              ],
+              "location": "StepDefinition.stepDefinition.click_on_the_login_link_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-03-19T16:21:14.719Z",
+        "line": 12,
+        "name": "Positive test validating login",
+        "description": "",
+        "id": "login-into-qaacademy;positive-test-validating-login;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1062573600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Initialize the browser with chrome",
+            "match": {
+              "location": "StepDefinition.stepDefinition.initialize_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3388803900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Land on the \"http://www.qaclickacademy.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.qaclickacademy.com/",
+                  "offset": 13
+                }
+              ],
+              "location": "StepDefinition.stepDefinition.land_on_the_something(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3839638500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on the login link test99@gmail.com and 123456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "test99@gmail.com",
+                  "offset": 24
+                },
+                {
+                  "val": "123456",
+                  "offset": 45
+                }
+              ],
+              "location": "StepDefinition.stepDefinition.click_on_the_login_link_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login into QaAcademy",
+    "description": "",
+    "id": "login-into-qaacademy",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Features/login.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,11 @@
+-Dio.netty.allocator.smallCacheSize: 256
+-Dio.netty.allocator.normalCacheSize: 64
+-Dio.netty.allocator.maxCachedBufferCapacity: 32768
+-Dio.netty.allocator.cacheTrimInterval: 8192
+-Dio.netty.allocator.cacheTrimIntervalMillis: 0
+-Dio.netty.allocator.useCacheForAllThreads: true
+-Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+-Dio.netty.allocator.type: pooled
+-Dio.netty.threadLocalDirectBufferSize: 0
+-Dio.netty.maxThreadLocalCharBufferSize: 16384
+-Dio.netty.processId: 13516 (auto-detected)
